@@ -1,6 +1,9 @@
  👩‍⚕️👨‍⚕️
 ![app_logo](https://user-images.githubusercontent.com/87956374/180250564-928ac675-11d2-44e1-b222-2fe34540717d.jpg)
 
+##Live view
+https://peaceful-parfait-30eb9b.netlify.app/
+
 ## 𝙰𝚋𝚘𝚞𝚝 𝚃𝚑𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝
 𝙸𝚝 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚜 𝚘𝚏 𝚝𝚠𝚘 𝚜𝚎𝚐𝚖𝚎𝚗𝚝𝚜 
 
